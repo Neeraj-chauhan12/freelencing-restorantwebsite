@@ -52,8 +52,8 @@ const Contact = () => {
                   <h3 className='text-xl font-semibold text-gray-800 mb-2'>
                     Phone
                   </h3>
-                  <p className='text-gray-600'>+1 (234) 567-8900</p>
-                  <p className='text-gray-600'>+1 (234) 567-8901</p>
+                  <p className='text-gray-600'>+91 9917672322</p>
+                  <p className='text-gray-600'>+91 9917672322</p>
                 </div>
               </div>
 
@@ -66,7 +66,7 @@ const Contact = () => {
                   <h3 className='text-xl font-semibold text-gray-800 mb-2'>
                     Email
                   </h3>
-                  <p className='text-gray-600'>info@foodhub.com</p>
+                  <p className='text-gray-600'>nc1676639@gmail.com</p>
                   <p className='text-gray-600'>support@foodhub.com</p>
                 </div>
               </div>
@@ -83,9 +83,9 @@ const Contact = () => {
                   <p className='text-gray-600'>
                     123 Main Street
                     <br />
-                    Your City, ST 12345
+                    agra, ST 12345
                     <br />
-                    United States
+                    India
                   </p>
                 </div>
               </div>

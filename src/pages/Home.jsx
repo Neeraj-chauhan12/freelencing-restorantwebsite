@@ -164,7 +164,7 @@ const Home = () => {
             <div>
               <h4 className='font-semibold mb-4'>Contact Info</h4>
               <p className='text-gray-400'>
-                Phone: +1 (234) 567-8900
+                Phone: +91 9917672322
                 <br />
                 Email: info@foodhub.com
               </p>
